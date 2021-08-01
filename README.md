@@ -10,4 +10,4 @@ I've found some old python notebooks that I had created when I was learning mach
 
 4. `Movie Recommendations using Recommender Systems`: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
 
-#  `NOTE:` You have to put teh path of the location where you have stored the data(or download it) at the begining of every data preparation set. Do it after downloading it and using it on the jupyter notebook.
+###  `NOTE:` You have to put the path of the location where you have stored the data(or download it) at the begining of every data preparation set. Do it after downloading it and using it on the jupyter notebook.
